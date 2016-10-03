@@ -41,7 +41,37 @@ The study area is located between the Sagaing fault to the west and the Shan sca
 ## Archaeology of the Irrawady terraces
 
 - Movius and contemporaries
-- Dennell is a major commentator recently
+
+## Dennell is a major commentator recently
+Robin Dennell is one of the more recent critics of the concept of the Movius Line. In his analysis of Movius’ publications, he describes their views as “backwards”, “ancient” and “eurocentric” (Dennell, 2016). The drawing of a line to mark difference in stone tool production between SE and SW/W Asia neglects the variety and complexity of lithic assemblages on either side of the line, leaving East Asia in a minor position in human evolution. According to Dennell, none of the material found by Movius and his colleagues has a stratigraphic context and they failed to identify a sequence of four terraces along the Irrawaddy River from the Middle to Upper Pleistocene. Furthermore, because of the finding context, his finds cannot be connected to other Middle Pleistocene Acheulean assemblages in Southwest Asia (Dennell, 2016).
+In contrast to Robin Dennell’s views, Norton et al. (2006) reworked the concept of the Movius Line by incorporating existing issues with the “traditional” Movius Line. The three main characteristics of the “Movius Line sensu lato” are the lower frequency of handaxe bearing sites in East Asia compared to Africa and India; the much lower percentage of bifacially made tools in East Asian assemblages and the morphological similarities to Acheulean artefacts (Norton et al., 2006; Norton & Bae, 2008).
+Instead of assigning stone tools to certain technologies made by different groups of early humans, and making implications about their abilities to produce stone tools, acknowledging the spatial and temporal diversity of lithic records in Eurasia is necessary (Dennell, 2016). Reasons for the lack of Acheulean technology are investigated in modern quaternary science (Brumm & Moore, 2012; Dennell, 2016; Norton & Bae, 2008; Norton, Bae, Harris, & Lee, 2006; Petraglia & Shipton, 2008; Schick, 1994), including constraints on raw material, demographic and social transmission, environmental changes and dispersal routes.
+The use of stone tools may have been influenced by certain situations, tasks or individuals. Consequently, different members of a group or different groups could have used bifaces rarely, never or only at specific events or times. Thus, the absence of bifaces or an item in general does not mean that the hominin living in this area at this time was not able to produce such a tool (Dennell, 2016).
+
+Raw Material
+
+Movius (1944) stated that the raw material used east of the Movius Line was often of low quality quartz and quartzite that would prevent the production of the same kind of bifaces (Dennell, 2016; Lycett & Bae, 2010). However, handaxes from Zhoukoudian Locality 1, Chongokni and Kumpari (China) are bifacially worked and are made of quartz and quartzite river cobbles from this area (Lycett & Bae, 2010).
+
+Environmental Changes
+
+Whilst colonizing East Asia, early modern humans encountered barriers such as mountain ranges, river deltas, oceans and deserts that provide a range of resources (e.g. water, food, shelter) (Lycett & Bae, 2010). However, the environment during the Middle Pleistocene was challenging in terms of changing climatic conditions and accompanying biogeographic transitions (Bar-Yosef & Belfer-Cohen, 2001; Field & Lahr, 2006; Lycett & Bae, 2010; Schick, 1994).
+
+There may have been no need for intensive stone tool production, or a different material was used at some point. This theory is known as the “bamboo hypothesis” (Field & Lahr, 2006; Lycett & Bae, 2010; Schick, 1994) and states that early modern humans used bamboo instead of stones to make tools (Schick, 1994) leaving behind no archaeological record (Lycett & Bae, 2010). However, even though bamboo cutting marks on bones can be distinguished from other cutting marks, there have been no findings of such so far (Lycett & Bae, 2010).
+
+Dispersal routes
+
+The dispersal route of early modern humans from Africa to Asia and Australia is still debated among quaternary scientists. Based on GIS analyses, Field & Lahr (2006) and Field et al. (2007) identified possible routes from Africa leading eastwards along the coasts to Asia and eventually via the Sunda Shelf to Australia. This “Southern Dispersal Route” is dated to around 75-60ka (Field & Lahr, 2006; Field, Petraglia, & Lahr, 2006; Clarkson et al., 2011; Macaulay et al., 2005). This route matches with some Middle Pleistocene archaeological sites in Africa, India (e.g. Borra, the Kokan Complex and the Hiran Valley) and SE Asia adjacent to coastal regions. Of particular importance are the deposits at the Hiran Valley since they have been dated to 56-69ka, matching the proposed time for the Southern Dispersal. A dispersal along the coasts and rivers seems reasonable because they provide sufficient resources. However, these first temporary settlements would not necessarily leave behind an archaeological record due to the rising sea level and the subsequent flooding of the Sunda shelf because of environmental changes QUELLE.
+
+Demographic and social transmission
+
+Recently, the model of demographic and social transmission has been proposed as a possible explanation for the diverse development of technologies in E/SE Asia and W/SW Asia. The concept is based on the assumption that a certain effective population size is essential for developing traditions and technologies to be passed on to further generations (Lycett & Bae, 2010; Lycett & Norton, 2010; Lycett, 2007). Given the colonization of the whole of East Asia and the distance to Africa decreasing the population size, the population density may have been too low to maintain or establish more elaborate tool making techniques (Lycett & Norton, 2010; Lycett, 2007).
+[Figure demographic and social transmission?]
+
+Definition of “Acheulean”
+
+Acheulean bifacial tools are the earliest known artefacts from Africa dating to 1.76 Ma respectively to 1.7- 1.6 Ma (Brumm & Moore, 2012; Lycett & Bae, 2010; Norton et al., 2006). In contrary to Mode I technology, these stone tools show a degree of standardization (Norton et al., 2006) and were the main tools used by hominins during the Pleistocene (Petraglia & Shipton, 2008). The tools include handaxes, cleavers, picks, knives, lanceolates and unifaces (Brumm & Moore, 2012). Used until 100 ka ago, Acheulean tools are commonly interpreted as butchery tools, although other functions are possible as well (Brumm & Moore, 2012). The definition of the Acheulean is not always straightforward, i.e. the assignment of finds can be influenced by the finding location east or west of the Movius Line QUELLE. Also, bifaces are not suitable as a time marker for specific cultures as they have been produced in different parts of the world over several 100 ka (Dennell, 2016).
+
+
 
 ## Survey data
 
@@ -118,8 +148,6 @@ library(git2r)
 repo <- repository(path = "../..")
 last_commit <- commits(repo)[[1]]
 ```
-
-The current git commit of this file is `r last_commit@sha`, which is on the `r branches(repo)[[1]]@name` branch and was made by `r last_commit@committer@name` on `r when(last_commit)`. The current commit message is "`r last_commit@summary`".
 
 ## References 
 
