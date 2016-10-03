@@ -28,7 +28,13 @@ library(tidyverse)
 
 # Background 
 
+The study area is located between the Sagaing fault to the west and the Shan scarp to the east. The Sagaing fault is a major strike-slip right-lateral continental fault that extends over 1200 km, first described by Noetling [-@noetling1900miocene], and later described by others [e.g. @thein1991lateral; maung1987transcurrent]. The Shan scarp is a topographic discontinuity that marks the boundary of the central plains and the Shan plateau to the east, a region with an average elevation of 1000 m and large variations of elevation over short distances (up to 1800 m over a few kilometers) [@bertrand2001diachronous; bertrand2003tectonics].
+
 ## Geomorphology of the Irrawady terraces
+
+
+
+
 
 - survey early literature on red earth deposits
 
