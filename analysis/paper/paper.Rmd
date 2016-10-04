@@ -26,11 +26,25 @@ library(tidyverse)
 
 # Introduction
 
+The Irrawaddy River terraces of central Myanmar have been part of global Pleistocene archaeology since de Terra and Movius [-@deTerra1943] published their monograph reporting archaeological evidence from the Middle Pleistocene. Their expedition also resulted in Movius' [-@movius1948lower] influential paper claiming to identify a major cultural and technological division between the east and west hemispheres. Movius described a region to the west of the Irrawaddy where hand-axes are present in Middle Pleistocene contexts, and a region to the east where hand-axes are absent, with chopper-chopping tools found instead. This division has subsequently been known as the Movius Line, and has been the subject of extensive discussion by archaeologists [@lycett2010demographic; @petraglia2008large; @lycett2010movius; keates2002movius; @norton2006movius; @yamei2000mid; @norton2008movius; @brantingham1999astride; @brumm2012biface; @brumm2010movius; @norton2006middle; @davis1999recent; @norton2000current; @lycett2007soanian; Romanowska2016]. This includes critical discussion that has questioned the reliability of Movius' observations 
+
+The importance of the Movius' findings depend on the chronology of the artefacts he discovered.  inferred from his geomorphological interpretations. Despite the prominence of the Movius Line in discussions of global patterns of human evolution, there has not been any new data from the location of Line since Movius' initial field work. In this paper we assess the current status of the 
+
+
+
 # Background 
 
 The study area is located between the Sagaing fault to the west and the Shan scarp to the east. The Sagaing fault is a major strike-slip right-lateral continental fault that extends over 1200 km, first described by Noetling [-@noetling1900miocene], and later described by others [e.g. @thein1991lateral; maung1987transcurrent]. The Shan scarp is a topographic discontinuity that marks the boundary of the central plains and the Shan plateau to the east, a region with an average elevation of 1000 m and large variations of elevation over short distances (up to 1800 m over a few kilometers) [@bertrand2001diachronous; bertrand2003tectonics].
 
+Descriptions of the physical and cultural geography of the Irrawaddy terraces of central Myanmar have been appearing scholarly literature since Myanmar was attached to the British Empire in 1886. In the following section we review this literature to characterise this landscape. Then we review previous work on the archaeology of this landscape. Finally, we report on our recent surveys in the Chauk region, and discuss the implications for the archaeological significance of the region. 
+
 ## Geomorphology of the Irrawady terraces
+
+
+
+Rep
+
+chhibber1934geology
 
 
 
