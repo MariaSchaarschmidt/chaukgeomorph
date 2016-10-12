@@ -38,6 +38,17 @@ Descriptions of the physical and cultural geography of the Irrawaddy terraces of
 
 ## Geomorphology of the Irrawady terraces
 
+There are three characteristic details of the terrace landforms: the red gravels that drape the surface, the fossil wood pieces found in these gravels, and the terraces 
+
+One of the most distinctive features of the Irrawaddy terraces is the 'coarse red gravels', as they were described by Chhibber [-@chhibber1934geology]. Chhibber describes the Irrawaddy River as meandering through the Lower Irrawaddy region, its course occasionaly constrained by sandstone cliffs. These cliffs are especially visible near Yenangyaung, and often capped by sheets of coarse red gravels. Chibber interprets the presence of these gravels as indicatative of previous hights of the river. Stamp [-@stamp1940irrawaddy, p. 339] observed the 'thin, coarse red (partly lateritized) gravels' that characterise this landscape. 
+
+
+The fossil wood fragments are typically within the size range of the background cobbles, but occasionally much larger trunk and branch sections are found. Chhibber notes that most of the fossil wood is identified Diptcrocarpoxylon burmense which grows abundantly in the region. Both monocotyledonous and dicotyledonous fossil wood are found in the deposits. A small percentage of the fossil wood is monocotyledoneae, with distinctive cordiform vascular bundles visible in the rock. The fossil wood is mostly siliceous, calcareous, ferruginous and carbonaceous. Most pieces are composed of chalcedony, microcrystalline silica, and opal.  Rarely found are calcite, siderite, and quartz with nodules of iron and calcium [-@chhibber1934geology]. Chhibber claims that the fossil wood results from colloidal silica dissolved in the waters that laid down the fossil-bearing deposit. 
+
+
+
+Stamp recognised 'peneplaned surfaces at various levels' in the region, but is skeptical of de Terra's interpretations. Stamp writes that 'de Terra makes so many sweeping generalizations, some of which are obviously incorrect, and glosses over the most disputed difficulties of stratigraphical correlation, that one is forced to suggest that much more work is needed before his various conclusions can be accepted.'
+
 
 
 Rep
