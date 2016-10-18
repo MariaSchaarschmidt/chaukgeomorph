@@ -40,26 +40,17 @@ Descriptions of the physical and cultural geography of the Irrawaddy terraces of
 
 There are three characteristic details of the terrace landforms: the red gravels that drape the surface, the fossil wood pieces found in these gravels, and the terraces 
 
-One of the most distinctive features of the Irrawaddy terraces is the 'coarse red gravels', as they were described by Chhibber [-@chhibber1934geology]. Chhibber describes the Irrawaddy River as meandering through the Lower Irrawaddy region, its course occasionaly constrained by sandstone cliffs. These cliffs are especially visible near Yenangyaung, and often capped by sheets of coarse red gravels. Chibber interprets the presence of these gravels as indicatative of previous hights of the river. Stamp [-@stamp1940irrawaddy, p. 339] observed the 'thin, coarse red (partly lateritized) gravels' that characterise this landscape. 
+One of the most distinctive features of the Irrawaddy terraces is the 'coarse red gravels', as they were described by Chhibber [-@chhibber1934geology]. Chhibber describes the Irrawaddy River as meandering through the Lower Irrawaddy region, its course occasionaly constrained by sandstone cliffs. These cliffs are especially visible near Yenangyaung, and often capped by sheets of coarse red gravels. Chibber interprets the presence of these gravels as indicatative of previous heights of the river. Stamp [-@stamp1940irrawaddy, p. 339] also observed the 'thin, coarse red (partly lateritized) gravels' that characterise this landscape. He traces their origin to the Arnkun Yoma, 150 km to the north west, based on the composition and morphology of the cobbles. Chhibber and Stamp both made a broad correlation between the red gravels of the Irrawaddy and the Siwaliks of India based on similarities in the large vertebrate fossil taxa, for example, _Mastodon_ sp., _Stegodon_ sp., and _Hippoputamus_ sp. This implies a Pliocene age for Irrawaddy deposits. 
 
+de Terra et al. [-@deTerra1943] calls these deposits 'Lateritic Gravel' and claim that the Lateritic Gravel of the Chauk area are related to the Uru Boulder Conglomerate of Northern Burma (400 km north of Chauk), and the uppermost Siwalik Boulders of Northwestern India. The correlation is based on the presence of greenstone, gneissic rocks and sandstone in the gravels. This correlation with India is the basis for their determination that the Irrawaddy terraces formed during the Plio-Pleistocene. Dennell [-@dennell2014hallam] has reviewed this claim in detail, and found no convincing evidence for a connection between India and these Irrawaddy gravels, noting that greenstone, gneissic rocks and sandstone are all present in the metamorphic belt of central Burma that extends from the Myityina district in upper Myanmar, to south of Mandalay. 
 
-The fossil wood fragments are typically within the size range of the background cobbles, but occasionally much larger trunk and branch sections are found. Chhibber notes that most of the fossil wood is identified Diptcrocarpoxylon burmense which grows abundantly in the region. Both monocotyledonous and dicotyledonous fossil wood are found in the deposits. A small percentage of the fossil wood is monocotyledoneae, with distinctive cordiform vascular bundles visible in the rock. The fossil wood is mostly siliceous, calcareous, ferruginous and carbonaceous. Most pieces are composed of chalcedony, microcrystalline silica, and opal.  Rarely found are calcite, siderite, and quartz with nodules of iron and calcium [-@chhibber1934geology]. Chhibber claims that the fossil wood results from colloidal silica dissolved in the waters that laid down the fossil-bearing deposit. 
+The fossil wood fragments found in these gravels are typically within the size range of the background cobbles, but occasionally much larger trunk and branch sections are found. Chhibber notes that most of the fossil wood is identified _Diptcrocarpoxylon burmense_ which grew abundantly in the region at the time of his survey. Both monocotyledonous and dicotyledonous fossil wood are found in the deposits. A small percentage of the fossil wood is monocotyledoneae, with distinctive cordiform vascular bundles visible in the rock. The fossil wood is mostly siliceous, calcareous, ferruginous and carbonaceous. Most pieces are composed of chalcedony, microcrystalline silica, and opal.  Rarely found are calcite, siderite, and quartz with nodules of iron and calcium [-@chhibber1934geology]. Chhibber discussed a range of previous theories about remote origins of the fossil wood, but finds them unconvinving because of the distribution of fossil wood is limited to the Irrawaddy valley. He concludes that the most likely origin is weathering combined with fresh-water desert conditions to produce colloidal silica that dissolved in the waters that laid down the gravel deposit in the Irrawaddy valley region. Chhibber's primary evidence for this local origin is the identification of Lieseqamq rings in the fossil wood, a characteristic of chemical precipitation reactions.  
 
-
+Perhaps the most controversial geomorhological detail of the Irrawaddy is the identification and chronology of the terraces. ...de Terra... ...Chhibber...
 
 Stamp recognised 'peneplaned surfaces at various levels' in the region, but is skeptical of de Terra's interpretations. Stamp writes that 'de Terra makes so many sweeping generalizations, some of which are obviously incorrect, and glosses over the most disputed difficulties of stratigraphical correlation, that one is forced to suggest that much more work is needed before his various conclusions can be accepted.'
 
 
-
-Rep
-
-chhibber1934geology
-
-
-
-
-
-- survey early literature on red earth deposits
 
 ## Archaeology of the Irrawady terraces
 
@@ -184,8 +175,4 @@ last_commit <- commits(repo)[[1]]
 
 ## References 
 
-knitr::current_input() 
-
-
- 
 
