@@ -172,6 +172,8 @@ last_commit <- commits(repo)[[1]]
 
 ## References 
 
+knitr::current_input() 
+
 
  
 
