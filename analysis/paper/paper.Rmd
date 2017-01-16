@@ -182,4 +182,3 @@ last_commit <- commits(repo)[[1]]
 
 ## References 
 
-
